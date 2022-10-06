@@ -3,11 +3,11 @@
 <html lang="en">
 <head> 
     <meta charset="UTF-8">
-    <title>Lorraine Rivera-Newberry</title>
+    <title>Practice</title>
 </head>
 <body>
         <header>
-            <p><h1>Lorraine Rivera-Newberry</h1> </p>
+            <p><h1>Practice</h1> </p>
          <nav>
         <a href="https://images.app.goo.gl/ct7p7SV5YBPiFCN4A">One</a>
         <a href="https://images.app.goo.gl/USbKgD28UVKJeSMT7">Two</a>
@@ -44,7 +44,7 @@
     <footer>
         <figure>
         <img src="http://www.intro-webdesign.com/images/newlogo.png " 
-        width= "33%" alt="Intro to Web Design Logo">  This page was created by Lorraine Rivera-Newberry	&amp; Colleen van Lent. To learn more about web design, visit <a href="http://www.intro-webdesign.com">Intro to Web Design.</a> </figure>
+        width= "33%" alt="Intro to Web Design Logo">  This page was created by 	&amp; Colleen van Lent. To learn more about web design, visit <a href="http://www.intro-webdesign.com">Intro to Web Design.</a> </figure>
     </footer>
 
 </html>
