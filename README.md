@@ -1,4 +1,4 @@
-# lriveran.github.io
+/* # lriveran.github.io */
 
 <html lang="en">
 <head> 
@@ -39,6 +39,9 @@
            I grew up in Adrian, Michigan. I spent my childhood wandering through a wooded gully with the neighborhood kids.
         </details>
         </section>
+        
+        <img src="https://www.goworldtravel.com/wp-content/uploads/2008/04/LEADponceBombas.jpg" 
+        width= "33%" alt="Ponce, Puerto Rico: Searching for a Past Life"> 
       
         
     </body>
