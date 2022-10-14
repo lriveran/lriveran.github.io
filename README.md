@@ -16,6 +16,9 @@
         <a href="https://images.app.goo.gl/ji14YbUWjqRUzdNN7">Michigami</a>
         </nav></header>
 
+    <img src="LRN Logo (1).pdf" 
+        width= "33%" alt="LRN Logo"> 
+
         <section><p><h2>Favorite Foods</h2></p>
        <p> <ul>
             <li>Steak</li>
