@@ -8,7 +8,7 @@
 </head>
 <body>
     
-            <img src="LRN Logo (1).pdf" 
+            <img src="![image](https://user-images.githubusercontent.com/114796457/195766565-ed26e326-2ee6-429b-aef9-ac72646b7ba5.png)" 
         width= "33%" alt="LRN Logo"> 
 
         <header>
