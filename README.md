@@ -7,6 +7,10 @@
       <link rel="stylesheet" href="main.css">
 </head>
 <body>
+    
+            <img src="LRN Logo (1).pdf" 
+        width= "33%" alt="LRN Logo"> 
+
         <header>
             <p><h1>Practice</h1> </p>
          <nav>
