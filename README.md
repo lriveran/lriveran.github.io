@@ -9,7 +9,7 @@
 <body>
     
             <img src="https://user-images.githubusercontent.com/114796457/195766565-ed26e326-2ee6-429b-aef9-ac72646b7ba5.png" 
-        width= "33%" alt="LRN Logo"> 
+        width= "20%" alt="LRN Logo"> 
 
         <header>
             <p><h1>Practice</h1> </p>
