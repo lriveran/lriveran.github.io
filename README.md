@@ -1,4 +1,5 @@
-/* # lriveran.github.io */
+<!-- /* # lriveran.github.io */ -->
+
 
 <html lang="en">
 <head> 
@@ -47,7 +48,7 @@
         </details>
         </section>
         
-        <a href= "https://www.goworldtravel.com/travel-ponce-puerto-rico-searching-for-past-life/><img src="https://www.goworldtravel.com/wp-content/uploads/2008/04/LEADponceBombas.jpg" 
+        <a href= "https://www.goworldtravel.com/travel-ponce-puerto-rico-searching-for-past-life/"><img src="https://www.goworldtravel.com/wp-content/uploads/2008/04/LEADponceBombas.jpg" 
         width= "33%" alt="Ponce, Puerto Rico: Searching for a Past Life"> </a>
       
         
