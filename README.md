@@ -11,6 +11,8 @@
     
             <img src="https://user-images.githubusercontent.com/114796457/195766565-ed26e326-2ee6-429b-aef9-ac72646b7ba5.png" 
         width= "20%" alt="LRN Logo"> 
+        <img src="https://user-images.githubusercontent.com/114796457/196522415-4ef47a84-83a6-486e-9e23-35b478eb3e52.jpg" 
+        width= "78%" alt="LRN pic"> 
 
         <header>
             <p><h1>Practice</h1> </p>
