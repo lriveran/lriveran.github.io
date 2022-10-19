@@ -18,7 +18,7 @@
       height=200px alt="LRN pic"> -->
     </div>
         <header>
-            <p><h1>Practice</h1> </p>
+            <p><h2>Practice</h2> </p>
          <nav>
         <a href="https://images.app.goo.gl/ct7p7SV5YBPiFCN4A">One</a>
         <a href="https://images.app.goo.gl/USbKgD28UVKJeSMT7">Two</a>
