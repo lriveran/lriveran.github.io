@@ -1,14 +1,14 @@
-div{
-height: 200px;}
+div{display: inline:block;
+}
+
 H1{color:#000000;
       font-family: Copperplate;
       Margin: 10px;
     padding: 10px;
       
-width: 50%;
 }
 
-  
+section{ height: 200px;}  
     
 
 
