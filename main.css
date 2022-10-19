@@ -1,4 +1,4 @@
-div{display: inline:block;
+header{display: inline:block;
       overflow: auto;
 }
 
@@ -8,7 +8,8 @@ H1{color:#000000;
     padding: 10px;
       
 }
-
+div{height: 200px;
+      float:left;}
 section{ height: 200px;}  
     
 
