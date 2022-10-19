@@ -1,19 +1,21 @@
-div{display: inline-block;
-color:#000000;
+div{display: inline-block;}
+H1{color:#000000;
       font-family: Copperplate;
       Margin: 10px;
     padding: 10px;
-      height:200px;
+      height:200px
+width 50%}
+
   
     
-}
 
 
-H1{
+
+H2{
 Color:#0000FF;
 background-color: #8ce0bf;
-}
-H2{
+
+
 Font-variant: small-caps;
 }
 body{
