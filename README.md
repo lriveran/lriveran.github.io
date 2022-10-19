@@ -11,6 +11,8 @@
     
             <img src="https://user-images.githubusercontent.com/114796457/195766565-ed26e326-2ee6-429b-aef9-ac72646b7ba5.png" 
         width= "20%" height=200px alt="LRN Logo"> 
+   <h1> Lorraine Rivera-Newberry  <br>
+       Technical Writer | Engineer </h1>
       <!--  <img src="https://user-images.githubusercontent.com/114796457/196522415-4ef47a84-83a6-486e-9e23-35b478eb3e52.jpg" 
       height=200px alt="LRN pic"> -->
 
@@ -23,8 +25,6 @@
         <a href="https://images.app.goo.gl/ji14YbUWjqRUzdNN7">Michigami</a>
         </nav></header>
 
-    <img src="LRN Logo (1).pdf" 
-        width= "33%" alt="LRN Logo"> 
 
         <section><p><h2>Favorite Foods</h2></p>
        <p> <ul>
