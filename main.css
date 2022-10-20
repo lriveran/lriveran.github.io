@@ -15,8 +15,12 @@ div{height: 200px;
 header h1{ height: 200px;
 margin:10px;
 padding: 10px;
-float:right;}  
+}  
     
+header img{height: 200px;
+margin:10px;
+padding: 10px;
+      float:right;}
 
 
 
