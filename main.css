@@ -34,4 +34,7 @@ Font-variant: small-caps;
 body{
       background-color: #e9e5b657;
 }
-      
+
+section{
+      align:center;
+}    
