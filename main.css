@@ -1,6 +1,6 @@
 header{display: inline:block;
       overflow: auto;
-      height:300px;
+      height:220px;
 }
 
 H1{color:#000000;
@@ -10,17 +10,20 @@ H1{color:#000000;
       
 }
 div{height: 200px;
-      float:left;}
+      float:left;
+      width: 18%;}
 
 header h1{ height: 200px;
 margin:10px;
 padding: 10px;
-}  
+width 55%;}  
     
 header image{height: 200px;
 margin:10px;
 padding: 10px;
-      float:right;}
+      float:right;
+      width 18%
+}
 
 
 
