@@ -28,12 +28,10 @@ H2{
 Color:#0000FF;
 background-color: #afd69b;
 font-size:40px;
-
+align:center;
 Font-variant: small-caps;
 }
-p{
- font-size:40px;
-}
+
 body{
       background-color: #e9e5b657;
 }
@@ -41,4 +39,5 @@ body{
 section{
       align:center;
       font:strong;
+       font-size:40px;
 }    
