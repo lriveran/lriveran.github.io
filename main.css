@@ -5,6 +5,7 @@ header{display: inline:block;
 
 H1{color:#000000;
       font-family: Copperplate;
+      font-size:30px;
       Margin: 10px;
     padding: 10px;
       
@@ -31,7 +32,7 @@ H2{
 Color:#0000FF;
 background-color: #afd69b;
 font-size:30px;
-align:center;
+text-align:center;
 Font-variant: small-caps;
 }
 
@@ -41,7 +42,7 @@ body{
 
 section{
       width:90%;
-            margin: 0 auto;
+        text-align:center;
       font:strong;
        font-size:40px;
 }    
