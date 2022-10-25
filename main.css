@@ -17,7 +17,8 @@ div.logo{height: 200px;
 section.title{ height: 200px;
 margin:10px;
 padding: 10px;
-width 55%;}  
+width 55%;
+      float:center;}  
     
 header image{height: 200px;
 margin:10px;
@@ -44,5 +45,5 @@ section{
       width:100%;
         text-align:center;
       font:strong;
-       font-size:40px;
+       font-size:30px;
 }    
