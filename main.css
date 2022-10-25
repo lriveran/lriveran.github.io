@@ -40,7 +40,8 @@ body{
 }
 
 section{
-      margin: 0 auto;
+      width:90%;
+            margin: 0 auto;
       font:strong;
        font-size:40px;
 }    
