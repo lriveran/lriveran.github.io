@@ -40,7 +40,7 @@ body{
 }
 
 section{
-      align:center;
+      margin: 0 auto;
       font:strong;
        font-size:40px;
 }    
