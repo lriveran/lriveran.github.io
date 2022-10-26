@@ -53,5 +53,6 @@ text-align:center;
 }
 #portfolio{
       display:inline-block;
-      box-sizing: border-box;
+      a:box-sizing: border-box;
+       a:border: 1px solid blue;
 }
