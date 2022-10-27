@@ -1,37 +1,37 @@
 header{display: inline:block;
-      overflow: auto;
-     
+      overflow: auto;    
 }
 
 H1{color:#000000;
       font-family: Copperplate;
       font-size:30px;
       Margin: 10px;
-    padding: 10px;
-      
+      padding: 10px;     
 }
+
 div.logo{height: "90%';
       float:left;
-      width: auto;}
-
-div.title{ 
-margin: 0 auto;float:none;width:"55%";}  
-    
-image.LRNpic {height: "90%";
-margin:10px;
-padding: 10px;
-      float:right;
-    
+      width: auto;
 }
 
-
+div.title{ margin: 0 auto;
+      float:none;
+      width:"55%";
+}  
+    
+image.LRNpic{height: "90%";
+      margin:10px;
+      padding: 10px;
+      float:right;
+      width:auto;  
+}
 
 H2{
-Color:#0000FF;
-background-color: #afd69b;
-font-size:30px;
-text-align:center;
-Font-variant: small-caps;
+      Color:#0000FF;
+      background-color: #afd69b;
+      font-size:30px;
+      text-align:center;
+      Font-variant: small-caps;
 }
 
 body{
@@ -39,18 +39,22 @@ body{
 }
 
 section{
-      width:100%;
-        text-align:center;
+      width:"100%";
+      text-align:center;
       font:strong;
-       font-size:30px;
+      font-size:30px;
 }    
-div{font-size:20px;
-text-align:center;
-      
+
+div{
+      font-size:20px;
+      text-align:center;
 }
 
 #portfolio{
       display:inline-block;
-    
 }
-img { border: 2px #afd69b solid;  padding: 5px; }
+
+img{ 
+      border: 2px #afd69b solid;  
+      padding: 5px; 
+}
