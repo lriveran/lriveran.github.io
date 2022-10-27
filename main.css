@@ -53,6 +53,6 @@ text-align:center;
 }
 #portfolio{
       display:inline-block;
-      a:box-sizing: border-box;
-       a:border: 1px solid blue;
+    
 }
+ a img { border: 2px #afd69b solic;  padding: 5px; }
