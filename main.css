@@ -44,7 +44,11 @@ section{
       font:strong;
       font-size:30px;
 }    
-
+ 
+#who{
+      width:"60%";
+}
+           
 div{
       font-size:20px;
       text-align:center;
