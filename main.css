@@ -10,7 +10,7 @@ H1{color:#000000;
     padding: 10px;
       
 }
-div.logo{height: 150px;
+div.logo{height: "90%';
       float:left;
       width: 18%;}
 
@@ -18,9 +18,10 @@ section.title{ height: 150px;
 margin:10px;
 padding: 10px;
 width: 55%;
+      overflow: auto;
       float:center;}  
     
-image.LRNpic {height: 150px;
+image.LRNpic {height: "90%";
 margin:10px;
 padding: 10px;
       float:right;
