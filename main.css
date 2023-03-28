@@ -77,6 +77,7 @@ img{
 }
 
 .aboutme{
+      padding:50px;
       background-image: url('https://github.com/lriveran/lriveran.github.io/blob/main/IMG_1214.jpeg?raw=true');
       background-color:#8fb6ab;
       opacity: 0.75;   
